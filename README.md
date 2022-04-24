@@ -1,3 +1,9 @@
+# Var olan bir e-ticaret projesinin eğitimini takip ederek, projenin klonunu sıfırdan yazıyorum.
+
+## Güncel halinde içerisinde kullanılan ve kendime kattığım teknolojiler:
+
+1. SASS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
