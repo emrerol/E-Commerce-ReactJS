@@ -2,7 +2,7 @@
 
 ## Güncel halinde içerisinde kullanılan ve kendime kattığım teknolojiler:
 
-1. SASS
+1. SCSS
 
 # Getting Started with Create React App
 
