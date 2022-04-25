@@ -3,6 +3,7 @@
 ## Güncel halinde içerisinde kullanılan ve kendime kattığım teknolojiler:
 
 1. SCSS
+2. React Router v6
 
 # Getting Started with Create React App
 
