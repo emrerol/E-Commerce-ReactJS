@@ -1,4 +1,4 @@
-# Var olan bir e-ticaret projesinin eğitimini takip ederek, projenin klonunu sıfırdan yazıyorum.
+# Var olan bir e-ticaret projesinin klonunu sıfırdan yazıyorum.
 
 ## Güncel halinde içerisinde kullanılan ve kendime kattığım teknolojiler:
 
