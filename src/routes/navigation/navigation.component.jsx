@@ -2,7 +2,11 @@ import { Fragment } from "react";
 import { Link, Outlet } from "react-router-dom";
 import { ReactComponent as RctComp } from "../../assets/reactlogo.svg";
 import "./navigation.styles.scss";
+import { UserContext } from "../../contexts/user.context";
+import { useContext } from "react";
 const Navigation = () => {
+  const { currentUser } = useContext(UserContext);
+
   return (
     <Fragment>
       <div className="navigation">
