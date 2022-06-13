@@ -1,6 +1,6 @@
 # Var olan bir e-ticaret projesinin klonunu sıfırdan yazıyorum.
 
-## Güncel halinde içerisinde kullanılan ve kendime kattığım teknolojiler:
+## Güncel Haliyle İçerdiği Teknolojiler
 
 1. SCSS
 2. React Router v6
