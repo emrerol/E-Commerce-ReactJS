@@ -5,6 +5,7 @@
 1. SCSS
 2. React Router v6
 3. Firebase Authentication (Google, Email/Password)
+4. Styled Components
 
 # Getting Started with Create React App
 
